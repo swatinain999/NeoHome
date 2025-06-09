@@ -1,7 +1,9 @@
 **NeoHome - Home Automation System**
+
 **Overview**
 
 SmartHive is a home automation system that allows users to control lighting, security, and appliances using IoT and AI technology. It uses Arduino, Bluetooth, and relay circuits for smart management.
+
 **Features**
 - Remote Control – Manage devices via mobile and Bluetooth.
 - Security – Smart locks, motion sensors, and cameras.
